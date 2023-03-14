@@ -1,0 +1,21 @@
+{
+    "account": "account",
+    "projectDashboard": "projects",
+    "siteDashboard": "site\/dashboard",
+    "dataMap": "data-map",
+    "authentication": "authentications",
+    "dataSources": "configure-dataflow\/import",
+    "dataServices": "services",
+    "exportAB": "export",
+    "imageDesigner": "designer",
+    "dataflow": "dataflow",
+    "dataView": "data-view",
+    "lists": "lists",
+    "roi": "strategy",
+    "reporting": "reporting",
+    "errorLog": "error",
+    "monitor": "monitor",
+    "activity": "activity",
+    "tracking": "tracking",
+    "settings": "site\/edit"
+}

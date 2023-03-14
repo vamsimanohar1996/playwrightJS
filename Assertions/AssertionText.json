@@ -1,0 +1,32 @@
+{
+    
+    "Communication": {
+        "helpCenter": "How can we help you today?"
+
+    },
+
+    "Dataflow":
+    {
+        "pageTitle": "Dataflow"
+    },
+
+    "Lists":
+    {
+        "pageTitle": "Lists"
+    },
+
+    "Dataservices":
+    {
+        "pageTitle": "Data Services"
+    },
+
+    "Dataview":
+    {
+        "pageTitle": "Data View"
+    },
+    "Errors":
+    {
+        "pageTitle": "Error Log"
+    }
+
+}

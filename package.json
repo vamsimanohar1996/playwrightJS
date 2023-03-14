@@ -1,0 +1,28 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "regression": "npx playwright test",
+    "firefoxTests": "npx playwright test --grep @Reg --config=playwright.config1.js --project=firefox",
+    "chromeTests": "npx playwright test --grep @Reg --config=playwright.config1.js --project=chrome",
+    "safariTests": "npx playwright test --grep @Reg --config=playwright.config1.js --project=safari",
+    "allure-tests": "npx playwright test --grep @Reg --config=playwright.config1.js --project=safari --reporter=line,allure-playwright",
+    "all": "npx playwright test --grep @Reg --config=playwright.config1.js",
+    "app": "npx playwright test --grep @app",
+    "test": "cross-env EMAIL=$npm_config_email CODE=#StrongPassword786! npx playwright test --grep @app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2",
+    "allure-commandline": "^2.21.0",
+    "allure-playwright": "^2.1.0",
+    "cross-env": "^7.0.3"
+  },
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}

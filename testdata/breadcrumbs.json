@@ -1,0 +1,19 @@
+{
+    "dashboard": "Dashboard",
+    "dataMap": "Data Map",
+    "authentication": "Authentication",
+    "dataSources": "Data Sources",
+    "dataServices": "Data Services",
+    "exportAB": "Exports A/B",
+    "imageDesigner": "Designer",
+    "dataflow": "Dataflow",
+    "dataView": "Data View",
+    "lists": "Lists",
+    "roi": "ROI Strategy",
+    "reporting": "Reporting",
+    "errorLog": "Error Log",
+    "monitor": "Monitor",
+    "activity": "Activity",
+    "tracking": "Tracking",
+    "settings": "Settings"
+}
